@@ -10,6 +10,8 @@
 
 ##
 
+<h3>Tecnologias</h3>
+
 <div>
   <img align="center" alt="Miguel-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Miguel-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
@@ -19,6 +21,8 @@
 </div>
 
 ##
+
+<h3>Conecte-se comigo!</h3>
 
 <div>
 <a href="https://www.linkedin.com/in/miguel-paes-da-silva-403660375/">
@@ -37,6 +41,8 @@
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 </div>
+
+##
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miguel-Paes/miguel-paes/output/github-contribution-grid-snake-dark.svg">
