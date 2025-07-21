@@ -4,11 +4,21 @@
 - 👨🏻‍💻 Técnico em Desenvolvimento de Sistemas
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180em align="center" src="https://github-readme-stats-pi-beige-32.vercel.app/api?username=Miguel-Paes&icons=true&theme=aura" />
+  <img height=180em align="center" src="https://github-readme-stats-pi-beige-32.vercel.app/api?username=Miguel-Paes&show_icons=true&theme=aura&include_all_commits=true&count_private=true" />
   <img height=180em align="center" src="https://github-readme-stats-pi-beige-32.vercel.app/api/top-langs/?username=Miguel-Paes&layout=compact&theme=aura" />
 </a>
 
-<hr/>
+##
+
+<div>
+  <img align="center" alt="Miguel-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="Miguel-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Miguel-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Miguel-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"/>
+  <img align="center" alt="Miguel-Vuetify" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg"/>
+</div>
+
+##
 
 <div>
 <a href="https://www.linkedin.com/in/miguel-paes-da-silva-403660375/">
