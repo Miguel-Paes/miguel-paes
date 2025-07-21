@@ -4,5 +4,5 @@
 - 👨🏻‍💻 Técnico em Desenvolvimento de Sistemas
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-pi-beige-32.vercel.app/api?username=Miguel-Paes&theme=mignight-purple" />
+  <img height=200 align="center" src="https://github-readme-stats-pi-beige-32.vercel.app/api?username=Miguel-Paes&theme=midnight-purple" />
 </a>
